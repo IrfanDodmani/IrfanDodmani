@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IrfanDodmani
 - 👀 I’m interested in "............" 
 - 🌱 I’m currently learning Aws with DevOps
-- 💞️ I’m looking to collaborate new career in DevOps
+- 💞️ I’m looking to make career in DevOps
 - 📫 How to reach me irfandodmani1@gmail.com
 
 <!---
